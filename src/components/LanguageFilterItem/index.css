@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.item-para {
+  background-color: transparent;
+  color: black;
+  font-size: 15px;
+  font-weight: 600;
+  font-family: 'Roboto';
+  padding-left: 15px;
+  padding-right: 15px;
+  height: 30px;
+  border: 0px solid white;
+  border-radius: 0px;
+  cursor: pointer;
+}
+.color {
+  border: 2px solid #0284c7;
+  border-radius: 15px;
+  color: #0284c7;
+}
